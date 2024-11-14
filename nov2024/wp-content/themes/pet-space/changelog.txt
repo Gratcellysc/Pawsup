@@ -1,0 +1,32 @@
+Version 1.2.0 - May 20, 2019
+* multiple demo contents added ( Pet Hotel, Pet School, Pet Clinic )
+* improved color schemes
+* widgets, mods, custom shortcodes  moved to plugin
+* side-cart-woocommerce added
+* various small fixes
+
+Version 1.0.9 - April 06, 2018
+* provided a сompatible with the update of WooCommerce up to v3.3.1
+* update localScroll plugin for proper work in last versions of Chrome browser
+
+Version 1.0.8 - February 14, 2018
+
+* WooCommerce: minor fixes for RTL
+* temporarily set a higher priority to initial compatible version of the WooCommerce plugin
+* provided a сompatible with the update of WooCommerce up to v3.3.1
+
+Version 1.0.5 - January 17, 2018
+
++ improved Edit Page view: added wrapper Metabox for 'Featured Additional Options'
+
+* fixed warning: TGMPA warning when installing plugins (since WP 4.8)
+* WooCommerce: minor styles fixes
+
+Version 1.0.2 - January 16, 2018
+
+* set plugin 'Booked' as central remoted
+* updated Booked plugin
+
+Version 1.0 - October 24, 2017                               [released]
+
+  Initial Release
